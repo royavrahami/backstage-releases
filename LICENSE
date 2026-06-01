@@ -1,0 +1,26 @@
+Backstage.AI — License & Terms of Use
+Copyright (c) 2026 Roy Avrahami. All rights reserved.
+
+This repository distributes official release binaries (installers) of
+Backstage.AI, a proprietary, closed-source application. The software is NOT
+open source.
+
+PERMITTED
+- You may download the released installer(s) hosted here and install and run
+  the application for evaluation/personal use, subject to the End User License
+  Agreement (EULA) and Terms of Use published at https://backstagecopilot.com.
+
+NOT PERMITTED (without prior written permission from the copyright holder)
+- Redistributing, re-hosting, repackaging or mirroring the binaries.
+- Decompiling, disassembling, reverse-engineering or otherwise attempting to
+  derive the source code.
+- Modifying the binaries or creating derivative works.
+- Commercial redistribution of any kind.
+
+NO WARRANTY
+The binaries are provided "AS IS", without warranty of any kind, express or
+implied. The installers are not code-signed; verify each download against the
+SHA-256 checksum published in its release notes before running.
+
+The authoritative and most current license and terms are those published at
+https://backstagecopilot.com. In case of any conflict, those terms govern.
